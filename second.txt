@@ -1,3 +1,12 @@
 this is a first git repositor
 this is also modifiedy
-
+a
+b
+c
+d
+e
+f
+f
+g
+h
+this is through local repo lets see which one is good`
